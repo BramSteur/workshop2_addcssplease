@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+}
+
+h1 {
+    text-align: left;
+    font-size: 100px;
+    text-decoration: underline;
+    display: inline-block;
+    width: 800px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+figure {
+    display: inline-block;
+    margin-left: 250px;
+    align-items: right;
+    
+    
+
+}
+
+#title {
+    text-align: center;
+}
+
+h2{
+    border-style: dashed;
+    padding: 10px;
+    border-width: 3px;
+    display: inline;
+    background-color: #4000ff;
+    
+
+}
+
+.description {
+    font-size: 20px;
+    display: inline-block;
+    width: 33%;
+    background-color: #4000ff;
+}
+
+#flexbox {
+    display: inline-flex;
+    padding: 40px;
+    margin-top: 50px;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.recipe_details {
+    width: 33%;
+    background-color: #4000ff;
+    padding-left: 150px;
+}
+
+.ingredients {
+    width: 33%;
+    background-color: #4000ff
+}
+.variation { 
+    text-align: center;
+    font-size: 20px;
+    background-color: #4000ff;
+}
+.instructions {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+ol.myol {
+    display: inline-block;
+    text-align: left;
+}
+ul.myul {
+    display: inline-block;
+  text-align: left;
+}
